@@ -1,9 +1,10 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	
+	inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
-		real A, B, C, D, E, F, X, Y, equacao1, equacao2, arredondandoX, arredondandoY
+		real A, B, C, D, E, F, X, Y, arredondandoX, arredondandoY
 		
 		escreva ("escreva o numero A: ")
 		leia (A)
